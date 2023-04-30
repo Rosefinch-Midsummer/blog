@@ -1,14 +1,14 @@
 baseURL: "https://rosefinch-midsummer.github.io/blog"
-languageCode: en-us
+languageCode: zh-CN#en-us
 title: theplaybook
 theme: PaperMod
 
 enableEmoji: true
 
 params:
-  author: David Hwang
+  author: RM
   homeInfoParams:
-    Title: "the dev playbook"
+    Title: "My personal blog"
     Content: >
       Welcome to the **dev playbook** 🎉
 
@@ -32,9 +32,9 @@ params:
 
   socialIcons:
     - name: Github
-      url: "https://github.com/dhij"
+      url: "https://github.com/Rosefinch-Midsummer"
     - name: Youtube
-      url: "https://www.youtube.com/@dhij"
+      url: "https://www.youtube.com/@Lucifer"
     - name: Rss
       url: "index.xml"
 
